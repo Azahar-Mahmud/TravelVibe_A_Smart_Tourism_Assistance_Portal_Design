@@ -118,6 +118,7 @@ This repository holds the project overview and screenshots. The complete, clicka
 - **Platform:** Desktop web (1440 px)
 - **Year:** 2026
 - **Author:** Azahar Mahmud Chowdhury Rafi · [GitHub](https://github.com/Azahar-Mahmud)
+- **Contributor:** Hridoy Ahmmad Akash · [GitHub](https://github.com/HridoyAhmmadAkash)
 
 ## License
 
