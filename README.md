@@ -19,7 +19,7 @@ plan trips with AI and pay with bKash, all in one place.
 
 ## Overview
 
-TravelVibe is a UI/UX design project for one platform that brings together **destination discovery** and **occasion management** across Bangladesh. Travelers explore tours, heritage sites and event venues in all eight divisions. Local businesses list and manage what they offer. Administrators keep the marketplace running.
+TravelVibe is an UI/UX design project for one platform that brings together **destination discovery** and **occasion management** across Bangladesh. Travelers explore tours, heritage sites and event venues in all eight divisions. Local businesses list and manage what they offer. Administrators keep the marketplace running.
 
 This repository holds the project overview and screenshots. The complete, clickable prototype is in Figma:
 
